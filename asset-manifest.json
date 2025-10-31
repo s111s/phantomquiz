@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.f0683838.css",
-    "main.js": "/static/js/main.9ea65908.js",
+    "main.js": "/static/js/main.4d688ff4.js",
     "static/js/453.b32ce284.chunk.js": "/static/js/453.b32ce284.chunk.js",
     "static/media/mummy.png": "/static/media/mummy.2711bb1192f0959de630.png",
+    "static/media/quiz-image.png": "/static/media/quiz-image.825f550e4949b0bc327a.png",
     "static/media/skeleton.png": "/static/media/skeleton.89adba6cda4528c7c528.png",
-    "static/media/quiz-image.png": "/static/media/quiz-image.c876a2a543eb1e2d48b9.png",
     "static/media/bloody-mary.png": "/static/media/bloody-mary.71641666bc3252704987.png",
     "static/media/spider.png": "/static/media/spider.0a3c8b70c861c3be8aed.png",
     "static/media/werewolf.png": "/static/media/werewolf.06934b8f03bef164cd57.png",
@@ -16,11 +16,11 @@
     "static/media/jack-o-lantern.png": "/static/media/jack-o-lantern.b43b602b9510f30695e2.png",
     "index.html": "/index.html",
     "main.f0683838.css.map": "/static/css/main.f0683838.css.map",
-    "main.9ea65908.js.map": "/static/js/main.9ea65908.js.map",
+    "main.4d688ff4.js.map": "/static/js/main.4d688ff4.js.map",
     "453.b32ce284.chunk.js.map": "/static/js/453.b32ce284.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0683838.css",
-    "static/js/main.9ea65908.js"
+    "static/js/main.4d688ff4.js"
   ]
 }
