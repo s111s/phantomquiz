@@ -6,21 +6,21 @@ function Result({ drink, compatible, compatible_description, compatible_descript
     <div className='borderedArea'>
       <div className="resultContainer">
         <div className='resultHeader'>
-          <h3>⋆˙𐙚 สีของร่มที่เหมาะกับคุณคือ ❅˙⋆</h3>
+          <h3>⋆˙👻 วิญญานที่เหมาะกับคุณคือ 🧟˙⋆</h3>
         </div>
         
         <div className='resultDrink'>
           <h1>{title}</h1>
             <img src={drinkImage} alt={drink} />
-            <p>{description}</p>
-            <p>{advantage}</p>
-            <p><i><b>คำแนะนำจากร่มของคุณ: </b></i>{disadvantage}</p>
+            <p><i><b>นิสัย: </b></i>{description}</p>
+            <p><i><b>ข้อดี: </b></i>{advantage}</p>
+            <p><i><b>พลังลับ: </b></i>{disadvantage}</p>
         </div>
 
         <div className='resultPair'>
 
           <div className="pairLeft">
-            <h4>เนื้อคู่ของคุณคือ</h4>
+            <h4>คู่หูของคุณคือ</h4>
             <h3>{compatible}</h3>
           </div>
 
