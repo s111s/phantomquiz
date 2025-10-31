@@ -5,7 +5,7 @@ import "../styles/question.css"
 function Question({ question, options, onAnswer, selectedAnswer }) {
   return (
     <div className="question-page">
-      <a href="https://s111s.github.io/rainyquiz/"><img src={quizImage} alt="What Color Is Your Rainy Day?"/></a>
+      <a href="#"><img src={quizImage} alt="ค้นหาตัวตนจากดวงวิญญาณ และพบคู่หูที่ใช่คุณ"/></a>
 
       <h1>{question}</h1>
       {options.map((option, index) => (
