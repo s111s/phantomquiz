@@ -18,7 +18,7 @@ const App = () => {
             <img src={mainLogo} alt="My Confession is You"/>
 
             <h1>
-              วิญญานตนไหน
+              วิญญาณตนไหน
               <br />
               สะท้อนจิตใจของเธอ
             </h1>

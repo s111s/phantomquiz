@@ -6,7 +6,7 @@ function Result({ drink, compatible, compatible_description, compatible_descript
     <div className='borderedArea'>
       <div className="resultContainer">
         <div className='resultHeader'>
-          <h3>⋆˙👻 วิญญานที่เหมาะกับคุณคือ 🧟˙⋆</h3>
+          <h3>⋆˙👻 วิญญาณที่เหมาะกับคุณคือ 🧟˙⋆</h3>
         </div>
         
         <div className='resultDrink'>
